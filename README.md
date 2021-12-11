@@ -89,3 +89,13 @@ For this part of the assignment, complete the following steps:
 1. Use the Voilà library to deploy your notebook as a web application. You can deploy the web application locally on your computer.
 
 2. Take a screen recording or screenshots to show how the web application appears when using Voilà. Include the recording or screenshots in the README.md file for your GitHub repository.
+
+### Screenshots of web application:
+![Hvplot PYPL Cumulative Returns](images/Hvplot_PYPL_Cumulative_Returns.png)
+![Hvplot PYPL Daily Returns](images/Hvplot_PYPL_Daily_Returns.png)
+![PYPL Database Query](images/PYPL_Database_Query.png)
+![SQL Statement Closing Prices](images/SQL_statement_Closing_Prices.png)
+![SQL Statement Top 10 Daily Returns](images/SQL_statement_top10_daily_returns.png)
+![Average Daily Returns ETF Portfolio](images/Average_Daily_Returns_ETF_portfolio.png)
+![ETF Portfolio Cumulative Return Value](images/ETF_portfolio_cumulative_return_value.png)
+![SQL Query Joined Tables](images/SQL_query_joined_tables.png)
